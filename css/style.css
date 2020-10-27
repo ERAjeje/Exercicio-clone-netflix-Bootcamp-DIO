@@ -11,7 +11,7 @@
 
 body {
     background-color: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
      color: white;
     font-size: 16px;
 }
@@ -140,7 +140,7 @@ header nav a:hover {
 **/
 
 .carousel {
-    height: 150px;
+    margin-top: 15px;
 }
 
 .item img {
