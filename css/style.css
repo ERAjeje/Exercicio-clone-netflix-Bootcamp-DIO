@@ -134,3 +134,17 @@ header nav a:hover {
 .button:nth-child(2) {
     margin-left: 3.5em;
 }
+
+/**
+ * carousel
+**/
+
+.carousel {
+    height: 150px;
+}
+
+.item img {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
