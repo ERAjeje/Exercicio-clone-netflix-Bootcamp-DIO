@@ -17,6 +17,6 @@ Foi feita uma replica responsiva da tela do Netflix, utilizando HTML5, CSS3 e JQ
 
 <img src="https://i.ibb.co/SPFNf8Y/netflix-clone-tela2.png" alt="netflix-clone-tela2" border="0">
 
-<img src="https://i.ibb.co/5r5M0Qn/netflix-clone-responsivo-mobile.png" alt="netflix-clone-responsivo-mobile" border="0">
+<img src="https://i.ibb.co/5r5M0Qn/netflix-clone-responsivo-mobile.png" alt="netflix-clone-responsivo-mobile" border="0">  <img src="https://i.ibb.co/njq4G9m/netflix-clone-responsivo-mobile2.png" alt="netflix-clone-responsivo-mobile2" border="0">
 
-<img src="https://i.ibb.co/njq4G9m/netflix-clone-responsivo-mobile2.png" alt="netflix-clone-responsivo-mobile2" border="0">
+
